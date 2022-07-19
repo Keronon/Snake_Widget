@@ -1,0 +1,10 @@
+d:\_ Artem's Private\Programming\_ Works\Snake Widget\Snake Widget\bin\Debug\Snake Widget.exe.config
+d:\_ Artem's Private\Programming\_ Works\Snake Widget\Snake Widget\bin\Debug\Snake Widget.exe
+d:\_ Artem's Private\Programming\_ Works\Snake Widget\Snake Widget\bin\Debug\Snake Widget.pdb
+d:\_ Artem's Private\Programming\_ Works\Snake Widget\Snake Widget\obj\Debug\Snake_Widget.Properties.Resources.resources
+d:\_ Artem's Private\Programming\_ Works\Snake Widget\Snake Widget\obj\Debug\Snake Widget.csproj.GenerateResource.cache
+d:\_ Artem's Private\Programming\_ Works\Snake Widget\Snake Widget\obj\Debug\Snake Widget.csproj.CoreCompileInputs.cache
+d:\_ Artem's Private\Programming\_ Works\Snake Widget\Snake Widget\obj\Debug\Snake Widget.exe
+d:\_ Artem's Private\Programming\_ Works\Snake Widget\Snake Widget\obj\Debug\Snake Widget.pdb
+d:\_ Artem's Private\Programming\_ Works\Snake Widget\Snake Widget\obj\Debug\Snake Widget.csprojAssemblyReference.cache
+d:\_ Artem's Private\Programming\_ Works\Snake Widget\Snake Widget\obj\Debug\Snake_Widget.FORM_Main.resources
